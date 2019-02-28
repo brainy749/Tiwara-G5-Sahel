@@ -1,8 +1,7 @@
 # Tiwara: Sahel Initiative portée par L'AFD 
 Dev Status: In progress. We will push updated source codes soon ... be patient :)  
+
 #### General Preview
-
-
 
 #### Risks, Crisis and Conflicts 
 
@@ -14,7 +13,7 @@ Dev Status: In progress. We will push updated source codes soon ... be patient :
 * Optimization of the Code for Speed
 * Improve Reactivity of Shiny Components
 
-See a preview [here](https://afdshiny.shinyapps.io/TiwaraDev/)
+See an early version of the app [here](https://afdshiny.shinyapps.io/TiwaraDev/)
 
 #### Credit
 
