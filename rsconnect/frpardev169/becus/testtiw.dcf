@@ -1,0 +1,13 @@
+name: testtiw
+title: TestTiw
+username: becus
+account: becus
+server: frpardev169
+hostUrl: http://frpardev169:3939/__api__
+appId: 20
+bundleId: 416
+url: http://frpardev169:3939/tiwara/
+when: 1551349011.65453
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|hdx_geo.csv|.Ruserdata/addop/.Rhistory|.Ruserdata/becus/.RData|.Ruserdata/becus/.Rhistory
